@@ -81,21 +81,3 @@ npm install
 # or
 yarn install
 
-##Running Locally
-# Start dev server
-npm run dev
-# or
-yarn dev
-
-To build for production:
-
-npm run build
-# or
-yarn build
-
-
-You can then preview the production build with:
-
-npm run serve
-# or
-yarn serve
